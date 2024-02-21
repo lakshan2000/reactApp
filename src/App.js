@@ -5,6 +5,7 @@ import Component1 from './Components/Component1';
 import Component2 from './Components/Component2';
 import BranchComponent01 from './branch/BranchComponent01';
 import BranchComponent02 from './branch/BranchComponent02';
+import CheckPullRequest from './branch/CheckPullRequest';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       
       <BranchComponent01/>
       <BranchComponent02/>
+      <CheckPullRequest>Lakshan</CheckPullRequest>
     </div>
   );
 }
