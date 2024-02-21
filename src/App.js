@@ -3,8 +3,8 @@ import {Component3} from './Components/Component3';
 import {MyName} from './Components/Component3';
 import Component1 from './Components/Component1';
 import Component2 from './Components/Component2';
-import BranchComponent01 from '../branch/BranchComponent01';
-import BranchComponent02 from '../branch/BranchComponent02';
+import BranchComponent01 from './branch/BranchComponent01';
+import BranchComponent02 from './branch/BranchComponent02';
 
 function App() {
 
