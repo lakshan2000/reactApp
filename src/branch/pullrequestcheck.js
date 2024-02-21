@@ -1,4 +1,4 @@
-function pullrequestcheck(){
+function PullRequestCheck(){
     return(
         <>
         <h2>Pullrequest check...</h2>
@@ -6,4 +6,4 @@ function pullrequestcheck(){
     )
 }
 
-export default pullrequestcheck;
+export default PullRequestCheck;
